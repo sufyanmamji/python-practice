@@ -14,3 +14,4 @@ var_strings = "String"
 #Booleans are True / False vlues normally used for comparisons.
 var_boolean = True
 
+#Equality Operators are: == (equal), =< (less than equal to), => (greater than equal to), > (greater than), < (less than)
