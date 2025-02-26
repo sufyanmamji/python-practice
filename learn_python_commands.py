@@ -15,3 +15,6 @@ var_strings = "String"
 var_boolean = True
 
 #Equality Operators are: == (equal), =< (less than equal to), => (greater than equal to), > (greater than), < (less than)
+#Equality operators provide results in boolean form which helps in conditional application of code blocks. For Example:
+
+print(var_integer == var_float)
