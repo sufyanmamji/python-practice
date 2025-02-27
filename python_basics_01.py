@@ -1,6 +1,6 @@
 #Python Commands, their explanation and their examples.
 
-#------------------------  TYPES OF VARIABLES  ------------------------#
+#------------------------||  TYPES OF VARIABLES  ||------------------------#
 
 #  There are 4 types of variables.
     
@@ -16,7 +16,7 @@ var_strings = "String"
 #Booleans are True / False vlues normally used for comparisons.
 var_boolean = True
 
-#------------------------  TYPES OF OPERATORS  ------------------------#
+#------------------------||  TYPES OF OPERATORS  ||------------------------#
 
 #Equality/inequality Operators are: == (equal to), != (not equal to)f, =< (less than equal to), => (greater than equal to), > (greater than), < (less than)
 #Equality operators provide results in boolean form which helps in conditional application of code blocks. For Example:
@@ -47,7 +47,7 @@ print(variable_2==temp_1)
 print(not variable_2==temp_1)
 #The answer changed to False due to the use of "not" command.
 
-#------------------------  IDENTIFY & SWITCH DATA TYPES  ------------------------#
+#------------------------||  IDENTIFY & SWITCH DATA TYPES  ||------------------------#
 
 #Value types in a variable can be identified using the command type() with variable name in the parenthesis. For Example:
 
@@ -81,3 +81,6 @@ print(bool(str(0)))
 
 print(int(var_boolean))
 #Similarly booleans can be converted to integers. i.e. 1 for True and 0 for Flase.
+
+
+#------------------------XX  END  XX------------------------#
